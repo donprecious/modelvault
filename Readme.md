@@ -176,13 +176,3 @@ OLLAMA_BASE_URL=http://localhost:11434
 
 ---
 
-## 🙌 Final Notes
-
-Thanks for reviewing this take-home. The setup is optimized for **local development**, **low memory**, and **zero cloud dependency**, and demonstrates thoughtful structure and extensibility with LangChain, FastAPI, and Ollama.
-
-Let me know if you'd like to see:
-- Memory support
-- Tests
-- Or a tiny frontend chat interface
-
-Happy to build on this!
